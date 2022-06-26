@@ -10,7 +10,7 @@ event-type: gitops-example-app-trigger
 client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
 
 ---
-  aa
+  aass
 gitops 보일러플레이트
 
 위 예제는 so1s-poc-nemne를 gitops로 변형한 레파지토리
