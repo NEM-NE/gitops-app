@@ -7,7 +7,7 @@
 K8s 기반 환경에서 GitOps를 쉽게 적용하기 위한 보일러플레이트입니다.
 
 GitOps 방식에 맞게 어플리케이션 소스코드와 Dockerfile이 있는 Application Repo, 배포를 위한 매니페스트가 있는 Config Repo로 구성되어 있습니다.
-
+  
 gitops-app 파일구조
 
 ```yaml
