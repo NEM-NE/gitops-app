@@ -9,8 +9,6 @@ repository: ianmiell/gitops-example-deploy
 event-type: gitops-example-app-trigger
 client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
 
-
-
 ---
 
 gitops 보일러플레이트
